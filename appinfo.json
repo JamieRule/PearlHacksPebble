@@ -1,0 +1,19 @@
+{
+  "uuid": "31b9fd3e-071d-4baf-b7ad-d7a4798eaec6",
+  "shortName": "Have Fun",
+  "longName": "HaveFun-PearlHacks",
+  "companyName": "JamieRule",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt"],
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
